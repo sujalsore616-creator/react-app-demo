@@ -5,7 +5,7 @@ const Navbar = () => {
         <>
             <nav className="navbar navbar-expand-sm bg-dark navbar-dark">
                 <div className="container-fluid">
-                    <Link className="navbar-brand" to="/">Logo</Link>
+                    <Link className="navbar-brand" to="/">IT Vedant</Link>
 
                     <button
                         className="navbar-toggler"
@@ -43,7 +43,7 @@ const Navbar = () => {
                                 <button
                                     className="btn btn-primary dropdown-toggle"
                                     data-bs-toggle="dropdown">
-                                    Dropdown
+                                    Student Information
                                 </button>
 
                                 <ul className="dropdown-menu">
